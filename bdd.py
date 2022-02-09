@@ -53,7 +53,7 @@ t.setheading(210)
 t.pendown()
 t.circle(-120, 60)
 
-# eues
+# eyes
 # left
 t.penup()
 t.goto(-140, 100)
